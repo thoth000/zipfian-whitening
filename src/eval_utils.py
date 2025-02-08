@@ -120,7 +120,7 @@ class WrappedTokenizerSubword(object):
         original_tokenizer: sentence_transformers.models.tokenizer.WhitespaceTokenizer,
     ):
         fasttext_subword_model_path = (
-            "/home/kurita/zipfian-whitening/models/crawl-300d-2M-subword.bin"
+            "models/crawl-300d-2M-subword.bin"
         )
         self.original_tokenizer = original_tokenizer
         print("loading fasttext subword model...")
