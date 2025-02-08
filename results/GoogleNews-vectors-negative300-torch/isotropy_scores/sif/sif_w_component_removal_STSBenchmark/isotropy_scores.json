@@ -1,0 +1,1 @@
+{"model_name": "GoogleNews-vectors-negative300-torch", "whitening_name": "sif", "pooling_mode": "sif_w_component_removal_STSBenchmark", "sym1": 0.7339155673980713, "sym2": 0.9384834170341492, "sym1_uniform": 0.7166190147399902, "sym2_uniform": 0.9508911371231079, "cosine": 0.9122403711080551, "iso_score": 0.5105276565377184}

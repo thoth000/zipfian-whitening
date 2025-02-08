@@ -1,0 +1,8 @@
+Transformation,STS12,STS13,STS14,STS15,STS16,SICK-R,STS-B,JSTS,AVG
+normal/mean,-,-,-,-,-,-,-,55.81,55.8050965447022
+uniform_whitening/centering_only,-,-,-,-,-,-,-,56.06,56.06094180216644
+uniform_whitening/whitening,-,-,-,-,-,-,-,55.53,55.53034155766603
+zipfian_whitening/centering_only,-,-,-,-,-,-,-,57.55,57.546411577504905
+zipfian_whitening/whitening,-,-,-,-,-,-,-,65.56,65.55876778653744
+abtp/component_removal,-,-,-,-,-,-,-,57.14,57.144991507243624
+sif/sif_w_component_removal,-,-,-,-,-,-,-,61.03,61.03043591425895

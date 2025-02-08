@@ -1,0 +1,1 @@
+{"model_name": "average_word_embeddings_glove.840B.300d", "whitening_name": "abtp", "pooling_mode": "component_removal", "sym1": 0.7471389770507812, "sym2": 0.8631868362426758, "sym1_uniform": 0.9999988675117493, "sym2_uniform": 0.9835195541381836, "cosine": 0.9999740975290479, "iso_score": 0.8273326997580593}

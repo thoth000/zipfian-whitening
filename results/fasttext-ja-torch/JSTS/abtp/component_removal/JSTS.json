@@ -1,0 +1,20 @@
+{
+  "dataset_revision": "50e79c314a7603ebc92236b66a0973d51a00ed8c",
+  "mteb_dataset_name": "JSTS",
+  "mteb_version": "1.10.1",
+  "validation": {
+    "cos_sim": {
+      "pearson": 0.574991627256658,
+      "spearman": 0.5714499150724363
+    },
+    "euclidean": {
+      "pearson": 0.559503718673351,
+      "spearman": 0.5556919417910589
+    },
+    "evaluation_time": 0.6,
+    "manhattan": {
+      "pearson": 0.5877876672355468,
+      "spearman": 0.581373558566503
+    }
+  }
+}

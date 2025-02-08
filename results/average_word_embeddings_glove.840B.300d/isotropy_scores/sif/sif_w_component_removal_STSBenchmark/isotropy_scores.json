@@ -1,0 +1,1 @@
+{"model_name": "average_word_embeddings_glove.840B.300d", "whitening_name": "sif", "pooling_mode": "sif_w_component_removal_STSBenchmark", "sym1": 0.6301031112670898, "sym2": 0.8840662837028503, "sym1_uniform": 0.7226943969726562, "sym2_uniform": 0.9656257033348083, "cosine": 0.9265066757798195, "iso_score": 0.5022298870396004}

@@ -1,0 +1,1 @@
+{"model_name": "fasttext-en-torch", "whitening_name": "uniform_whitening", "pooling_mode": "whitening", "sym1": 0.7053570747375488, "sym2": 0.8572259545326233, "sym1_uniform": 0.9999999403953552, "sym2_uniform": 0.9999998807907104, "cosine": 0.9999663393464289, "iso_score": 0.9999999994946376}
