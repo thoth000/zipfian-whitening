@@ -44,7 +44,7 @@ bash scripts/run.sh
 - Please refer to the notebooks in the `notebooks` directory for the visualization of the results.
 
 ### Note
-- We used Enlgish Wikipedia word frequency from Arora+'17[1]: https://github.com/PrincetonML/SIF/raw/master/auxiliary_data/enwiki_vocab_min200.txt .
+- We used English Wikipedia word frequency from Arora+'17[1]: https://github.com/PrincetonML/SIF/raw/master/auxiliary_data/enwiki_vocab_min200.txt .
 - For the calculation of IsoScore in `src/IsoScore.py`, we used the original implementation from Rudman+'22 [2]: https://github.com/bcbi-edu/p_eickhoff_isoscore/blob/main/IsoScore/IsoScore.py .
 
 [1] Sanjeev Arora, Yingyu Liang and Tengyu Ma. "A Simple but Tough-to-Beat Baseline for Sentence Embeddings" In ICLR, 2017.  
